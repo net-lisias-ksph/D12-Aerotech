@@ -33,3 +33,4 @@ This is a unofficial, non authorized repository for **D12 Aerotech - A B9 Aerosp
 * [cremasterstroke](https://forum.kerbalspaceprogram.com/index.php?/profile/110874-cremasterstroke/)
 	+ Mega
 		- [B9 R5.2.1](https://mega.co.nz/#!rExEBJ7I!9ASWAiFN7acJaqTKDq7d2S-DNa6XMFejnd32tf4qnMg)
+		- [B9 R5.2.1 V2](https://mega.co.nz/#!jQ4lxSDS!RyYRt4MOVTthmpSZqxOy0FZTuyj0-W0BrOJfuwm83NM)
