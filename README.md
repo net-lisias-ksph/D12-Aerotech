@@ -27,3 +27,6 @@ This is a unofficial, non authorized repository for **D12 Aerotech - A B9 Aerosp
 		- [Swept Wing Update](https://www.dropbox.com/s/u8n7bnji95v4fna/swingWingTest.zip)
 		- [Wing Tech Preview](https://www.dropbox.com/s/lamttauayivlyc5/D12WingtechPreview1.zip)
 		- [Beta 1](https://www.dropbox.com/s/8sobh5owvrnieuc/D12AerotechBeta1.zip)
+* [CSVoltage](https://forum.kerbalspaceprogram.com/index.php?/profile/75254-csvoltage/)
+	+ Dropbox
+		- [Update to B9 R5](https://www.dropbox.com/s/s55hmux3qtp9ihb/D12AerotechBeta1.1.zip?dl=1)
