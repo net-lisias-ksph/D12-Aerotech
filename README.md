@@ -30,3 +30,6 @@ This is a unofficial, non authorized repository for **D12 Aerotech - A B9 Aerosp
 * [CSVoltage](https://forum.kerbalspaceprogram.com/index.php?/profile/75254-csvoltage/)
 	+ Dropbox
 		- [Update to B9 R5](https://www.dropbox.com/s/s55hmux3qtp9ihb/D12AerotechBeta1.1.zip?dl=1)
+* [cremasterstroke](https://forum.kerbalspaceprogram.com/index.php?/profile/110874-cremasterstroke/)
+	+ Mega
+		- [B9 R5.2.1](https://mega.co.nz/#!rExEBJ7I!9ASWAiFN7acJaqTKDq7d2S-DNa6XMFejnd32tf4qnMg)
