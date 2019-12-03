@@ -25,3 +25,4 @@ This is a unofficial, non authorized repository for **D12 Aerotech - A B9 Aerosp
 		- [Squad Knockout](https://www.dropbox.com/s/dwdiqj2iy7uwpl0/D12KOprealpha.zip)
 		- [Active Texture Management fix](https://www.dropbox.com/s/l0is4rbbh3r9fzj/D12Knockout.cfg)
 		- [Swept Wing Update](https://www.dropbox.com/s/u8n7bnji95v4fna/swingWingTest.zip)
+		- [Wing Tech Preview](https://www.dropbox.com/s/lamttauayivlyc5/D12WingtechPreview1.zip)
