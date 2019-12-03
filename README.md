@@ -19,4 +19,6 @@ This is a unofficial, non authorized repository for **D12 Aerotech - A B9 Aerosp
 
 * [PolecatEZ](https://forum.kerbalspaceprogram.com/index.php?/profile/58008-polecatez/)
 	+ [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/70562-*/)
-	+ [Dropbox](https://www.dropbox.com/s/8sobh5owvrnieuc/D12AerotechBeta1.zip)
+	+ Dropbox
+		- [Early Alpha](https://www.dropbox.com/s/o0s5vkncxiqbae9/D12earlyAlpha.zip)
+		- [Supplemental](https://www.dropbox.com/s/c57yeb1otrlvl6x/D12Sup_prealpha.zip)
