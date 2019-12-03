@@ -1,7 +1,11 @@
 # D12 Aerotech :: Change Log
 
-* 2014-0601 : 0.0.1 (PolecatEZ) for KSP 0.23.5
-	 Release Candidate 1
+* 2014-0902: 0.0.1.1 (CSVoltage Unofficial) for KSP 0.24.2
+	+ Now compatible with B9 R5.0 pre-release.
+	+ I changed the pointers for files to work with the new textures and moved textures that the new ones don't work with to the D12 assets folder, along with some props and the latest firespitter and module manager.
+	+ https://forum.kerbalspaceprogram.com/index.php?/topic/70562-wipd12-aerotech-a-b9-aerospace-expansion-beta1/&do=findComment&comment=1378697
+* 2014-0601: 0.0.1 (PolecatEZ) for KSP 0.23.5
+	+ Release Candidate 1
 * 2014-0511: Wingtech Preview 1 (PolecatEZ) for KSP 0.23.5
 	+ https://forum.kerbalspaceprogram.com/index.php?/topic/70562-wipd12-aerotech-a-b9-aerospace-expansion-beta1/&do=findComment&comment=1141517
 * 2014-0507: Swing Wings update (PolecatEZ) for KSP 0.23.5
