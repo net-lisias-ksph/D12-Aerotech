@@ -1,5 +1,9 @@
 # D12 Aerotech :: Change Log
 
+* 2014-1022: 0.0.1.3 (cremasterstroke Unofficial) for KSP 0.24.2
+	+ Some additional fixes (mainly for attachment nodes) for the Mk2 parts.
+	+ Note though that a lot of the IVAs aren't finished so RPM monitors won't be available.
+	+ https://forum.kerbalspaceprogram.com/index.php?/topic/70562-wipd12-aerotech-a-b9-aerospace-expansion-beta1/&do=findComment&comment=1483625
 * 2014-0909: 0.0.1.2 (cremasterstroke Unofficial) for KSP 0.24.2
 	+ based on CSVoltage's fix - thanks for getting the ball rolling and most of the work done
 	+ made with B12 R5.2.1 (not included), Firespitter 6.3.5 (plugin and sound included), ModuleManager 2.3.5 (plugin included) - thanks to their respective authors for their continuing excellent work
