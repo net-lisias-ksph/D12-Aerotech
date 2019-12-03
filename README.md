@@ -22,3 +22,4 @@ This is a unofficial, non authorized repository for **D12 Aerotech - A B9 Aerosp
 	+ Dropbox
 		- [Early Alpha](https://www.dropbox.com/s/o0s5vkncxiqbae9/D12earlyAlpha.zip)
 		- [Supplemental](https://www.dropbox.com/s/c57yeb1otrlvl6x/D12Sup_prealpha.zip)
+		- [Squad Knockout](https://www.dropbox.com/s/dwdiqj2iy7uwpl0/D12KOprealpha.zip)
